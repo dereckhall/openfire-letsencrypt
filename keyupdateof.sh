@@ -2,7 +2,7 @@
 
 #
 # this is for my environment. you have need to make minior adjustments for yours
-#
+# dhall
 
 date=$(date +"%Y%m%d")
 HOME="/opt/openfire"
